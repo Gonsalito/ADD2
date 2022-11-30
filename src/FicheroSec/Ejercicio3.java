@@ -20,6 +20,7 @@ public class Ejercicio3 {
 		
 		try {
 			BufferedReader head = new BufferedReader(new FileReader("C:\\Users\\Gonsalito\\Desktop\\ufalusi.txt"));
+			String sCadena;
 			while ((sCadena = head.readLine())!=null) {
 				  lNumeroLineas++;
 				}

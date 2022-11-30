@@ -9,7 +9,7 @@ public class ficheroBasico {
 		
 		System.out.println("Informacion sobre el fichero");
 		
-		File f = new File("C:\\Users\\jony_\\eclipse-workspace\\AccesoDD");
+		File f = new File("C:\\Users\\gonsalito\\eclipse-workspace\\AccesoDD");
 		if(f.exists()) {
 			
 			
